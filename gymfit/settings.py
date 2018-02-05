@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'gymfit.exercises.apps.ExercisesConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
